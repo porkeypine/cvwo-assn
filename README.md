@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Shi Hui Ling   A0205235R
 
-Things you may want to cover:
+The website can be run on Heroku Local with the command
+$ heroku local -f Procfile.dev 
 
-* Ruby version
+React frontend stuff is all in the 'todo-react-app' folder
 
-* System dependencies
+* Ruby version: 2.7.0
 
-* Configuration
+* React version: 0.1.0
 
-* Database creation
+* Additional dependencies: axios, immutability-helper
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Database: sqlite3 (faced difficulty setting up Postgresql on WSL)
