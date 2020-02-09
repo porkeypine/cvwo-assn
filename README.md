@@ -12,8 +12,6 @@ $ heroku local -f Procfile.dev
 
 * Ruby version: 2.7.0
 
-* React version: 0.1.0
-
 * Additional dependencies: axios, immutability-helper
 
 * Database: sqlite3 (faced difficulty setting up Postgresql on WSL)
